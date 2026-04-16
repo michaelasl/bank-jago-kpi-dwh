@@ -65,6 +65,7 @@ bank-jago-kpi-dwh/
 
 *  Dashboard Looker Studio: *(https://lookerstudio.google.com/reporting/09fa612c-7fd1-42aa-afa6-a9574bdb4320)*
 *  Data / Resources: *(kaggle)*
+*  Dokumen : *(https://drive.google.com/file/d/1sFt8fq3qadPguWwqnyf5T7qkWCF5W20y/view?usp=sharing)*
 
 ---
 
